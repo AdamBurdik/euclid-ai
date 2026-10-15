@@ -1,0 +1,26 @@
+# EUCLID Data Pipeline Artifacts
+# Generated: 2024-01-15 10:30:45 UTC
+
+[data_splits]
+train: 8000 samples
+val: 2000 samples
+test: 500 samples
+
+[feature_columns]
+- file_count
+- bash_history_length
+- account_count
+- browser_cache_entries
+- cpu_features (1536 dim)
+- gpu_features (0 if no gpu)
+
+[metadata]
+creator: "euclid-team"
+version: "3.0"
+created: "2024-01-15T10:30:45Z"
+sha256: a1b2c3d4e5f6071829394a5b6c7d8e9f0a1b2c3d4e5f6071829394a5b6c7d8e9f
+
+[data_quality]
+missing_values: 0.0%
+outliers: 2.3%
+duplicates: 0.1%
