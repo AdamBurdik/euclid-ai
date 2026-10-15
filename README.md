@@ -142,34 +142,45 @@ EUCLID shows a confidence score during the run (91% to 99%, depends on the mood)
 ## FAQ
 
 **What does EUCLID stand for?**
+
 Officially, "Enhanced User Cognition & Life Inference Daemon". Inside the team it is "Extremely Unreasonably Confident Life Inference Daemon".
 
 **How was EUCLID trained?**
+
 For about 4 days, on all the data we could get from the government of the USA. We can't say more. (We don't know more.)
 
 **Does it need a GPU?**
+
 No. It runs on anything that has a terminal. We also tried a toaster, but the toaster has no terminal.
 
 **What language is it written in?**
+
 A very efficient one. It is most likely already installed on your computer.
 
 **Why is the version 9.0.1?**
+
 Versions 1 to 8 were skipped because 9 sounds more advanced.
 
 **Does it really scan my files?**
+
 It reads the word "scan" very carefully and then does nothing.
 
 **Is it safe?**
+
 No. Everything EUCLID collects is sent to the Czech government for future research. We don't know what research. We asked, and they replied that our request is "in progress" and sent form number 27-B/6. This is also why the specs say "Fully local": it is local to the Czech Republic.
 
 **Why is the output different every time?**
+
 Because the future is not fixed. Or because of `$RANDOM`. Both are true.
 
 **Can I use it to predict the lottery?**
+
 No. It will tell you that you will drink water soon. You will, so it's still correct.
 
 **It said something wrong about me.**
+
 Then you are an outlier. We have a theory about those too, but it's not finished.
 
 **Was this project made by AI?**
-Was this project made by AI? Yes. EUCLID predicted the whole project before it even began, including this question and this answer. We only wrote down what it said.
+
+EUCLID predicted the whole project before it even began, including this question and this answer. We only wrote down what it said.
