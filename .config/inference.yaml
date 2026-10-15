@@ -1,0 +1,20 @@
+sampling_config:
+  temperature: 0.8
+  top_k: 40
+  top_p: 0.95
+  typical_p: 0.9
+  temperature_decay: 0.9999
+  seed: 42
+  device: "auto"
+  dtype: "float16"
+
+inference:
+  max_new_tokens: 128
+  stop_tokens: ["<EOS>", "<PAD>"]
+  return_logprobs: 5
+  echo: false
+
+output:
+  format: "text"
+  include_probabilities: false
+  include_hidden: false
