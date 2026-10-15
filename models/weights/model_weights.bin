@@ -1,0 +1,17 @@
+EUCLID Model Weights (fp16)
+===========================
+This file contains the trained model weights for the predictive inference engine.
+Shape: [7300000000] parameters
+Format: safetensors
+Device: cuda (if available) else cpu
+
+Weight sections:
+- embed.weight: [4096, 4096] float16
+- layers.0.weight: [4096, 4096] float16
+- layers.1.weight: [4096, 4096] float16
+- layers.2.weight: [4096, 4096] float16
+- ... (72 more layers)
+- norm.weight: [4096] float16
+- lm_head.weight: [vocab_size, 4096] float16
+
+Total size: 14.6 TB
