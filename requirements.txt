@@ -1,0 +1,6 @@
+numpy==1.24.0
+torch>=2.0.0
+transformers>=4.30.0
+omegadir==2.2.0
+requests>=2.28.0
+pydantic>=2.5.0
